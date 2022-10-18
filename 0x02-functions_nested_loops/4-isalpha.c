@@ -4,6 +4,7 @@
  * print_sign -print the sign of a num
  * @n: sum to be checked for
  * Return: 1 and print 0 if n is zero
+ * 0 and prints 0 if n is zero
  * -1 and prints - if n is less than zero
  */
 
