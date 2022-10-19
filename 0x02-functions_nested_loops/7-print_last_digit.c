@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_last_digit-prints the last digit of an interger
  * @a:number to compute last digit
